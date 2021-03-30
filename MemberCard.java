@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class BankBNI here.
+ * Write a description of class MemberCard here.
  *
  * @author (your name)
  * @version (a version number or a date)
